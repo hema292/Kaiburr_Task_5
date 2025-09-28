@@ -39,3 +39,13 @@ Train models (Logistic Regression, Naive Bayes, Linear SVM)
 Evaluate models with accuracy, F1 score, and classification report
 
 Plot complaint distribution by product
+
+Example Output
+
+Predicted Category: Mortgage
+
+Confusion matrices and classification reports for all models are displayed after training.
+
+License
+
+This project is open-source and available under the MIT License.
